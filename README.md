@@ -1,49 +1,216 @@
-<p align="center">  
-<img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20Of%20JS%20ANi.gif?raw=true" width="750" /> 
-</p> <h1 align="center">🚀 LeetCode 30 Days of JavaScript Challenge
-</h1>
+<!-- HERO IMAGE -->
+<table align="center" cellpadding="10" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/shriram7057/shriram7057/blob/main/Leetcode%2030%20Days%20Of%20JS%20ANi.gif?raw=true" width="550"/>
+    </td>
+  </tr>
+</table>
 
-**Goal:** Complete, clean, and efficient solutions for the official LeetCode "30 Days of JavaScript" challenge. This project is a focused effort to **reinforce fundamental JS knowledge**, sharpen **algorithmic thinking**, and prepare for **technical interviews**.
+<!-- TITLE -->
+<h1 align="center">🚀 LeetCode 30 Days of JavaScript Challenge</h1>
 
+<table align="center" cellpadding="12" width="80%">
+  <tr>
+    <td align="center">
+      <b>Goal:</b> Build clean, efficient, and interview-ready solutions for the official  
+      <b>LeetCode “30 Days of JavaScript”</b> challenge.
+      <br/><br/>
+      This project focuses on reinforcing <b>core JavaScript fundamentals</b>,
+      improving <b>algorithmic thinking</b>, and strengthening
+      <b>technical interview readiness</b>.
+    </td>
+  </tr>
+</table>
 
-### **💡 Why This Challenge?**
+<hr/>
 
-This 30-day commitment ensures a deep dive into crucial JavaScript concepts and common algorithmic patterns often encountered in technical screens. Solutions are designed to be **idiomatic, clean, and highly efficient**.
+<!-- WHY THIS CHALLENGE -->
+<h2>💡 Why This Challenge?</h2>
+<table border="1" cellpadding="12" cellspacing="0" width="100%">
+  <tr>
+    <td>
+      This 30-day commitment provides structured, daily exposure to essential
+      JavaScript concepts and common algorithmic patterns frequently tested in
+      technical interviews.
+      <br/><br/>
+      All solutions are written to be:
+      <ul>
+        <li>✔ Idiomatic JavaScript (ES6+)</li>
+        <li>✔ Clean and readable</li>
+        <li>✔ Optimized for performance and clarity</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### **📈 Project Overview**
+<hr/>
 
-| Metric | Status | Notes |
-| :--- | :--- | :--- |
-| **Total Problems** | 30 | A full month of dedicated practice. |
-| **Language** | **JavaScript (ES6+)** | Utilizing modern JS features (e.g., arrow functions, `const`/`let`). |
-| **Commitment** | **Daily Solution** | Tracking progress via daily commits within the `solutions` folder. |
+<!-- PROJECT OVERVIEW -->
+<h2>📈 Project Overview</h2>
+<table border="1" cellpadding="12" cellspacing="0" width="100%">
+  <tr>
+    <th width="25%">Metric</th>
+    <th width="25%">Status</th>
+    <th>Notes</th>
+  </tr>
 
----
+  <tr>
+    <td><b>Total Problems</b></td>
+    <td>30</td>
+    <td>A full month of focused, consistent practice</td>
+  </tr>
 
-### **🧠 Key Concepts Reinforced**
+  <tr>
+    <td><b>Language</b></td>
+    <td><b>JavaScript (ES6+)</b></td>
+    <td>Uses modern features like <code>const</code>, <code>let</code>, arrow functions</td>
+  </tr>
 
-The problems are selected to specifically strengthen core JavaScript and algorithmic pillars, ensuring comprehensive interview preparation:
+  <tr>
+    <td><b>Commitment</b></td>
+    <td><b>Daily Solutions</b></td>
+    <td>Progress tracked via daily commits inside the <code>solutions</code> folder</td>
+  </tr>
+</table>
 
-* **Asynchronous JS:** Promises, `async`/`await`, and event loop understanding.
-* **Data Structures:** Implementing and manipulating Arrays, Maps, Sets, Stacks, and Queues.
-* **Closures & Scope:** Mastering function factories and variable accessibility.
-* **Array Methods:** Practical application of `map`, `filter`, `reduce`, and others for declarative coding.
-* **Pointers & Sliding Window:** Optimizing algorithms for time efficiency.
+<hr/>
 
----
-## 🤝 Let's Connect!
-<div align="center">
+<!-- KEY CONCEPTS -->
+<h2>🧠 Key Concepts Reinforced</h2>
+<table border="1" cellpadding="12" cellspacing="0" width="100%">
+  <tr>
+    <th width="30%">Concept Area</th>
+    <th>Description</th>
+  </tr>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriram7057)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriram-lahane/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shriram_lahane/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pvy.shree_01/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shriram01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahaneshriram2@gmail.com)
+  <tr>
+    <td><b>Asynchronous JavaScript</b></td>
+    <td>
+      Promises, <code>async</code>/<code>await</code>, and understanding the event loop
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td><b>Data Structures</b></td>
+    <td>
+      Arrays, Maps, Sets, Stacks, Queues, and their practical use cases
+    </td>
+  </tr>
 
-### ⭐ **Thanks for visiting!**
-**Keep Learning | Keep Coding | Keep Building** 🚀  
+  <tr>
+    <td><b>Closures & Scope</b></td>
+    <td>
+      Function factories, lexical scoping, and variable accessibility
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <td><b>Array Methods</b></td>
+    <td>
+      Real-world usage of <code>map</code>, <code>filter</code>, <code>reduce</code>,
+      and declarative patterns
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Algorithmic Patterns</b></td>
+    <td>
+      Two pointers, sliding window, and time-efficient problem-solving strategies
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+<!-- CONNECT -->
+<h3>🤝 Connect with Me</h3>
+
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <th align="center">Platform</th>
+    <th align="center">Profile</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="35"/>
+      <br/>GitHub
+    </td>
+    <td align="center">
+      <a href="https://github.com/shriram7057" target="_blank">
+        https://github.com/shriram7057
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
+      <br/>LinkedIn
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/Shriram%20Lahane" target="_blank">
+        https://linkedin.com/in/Shriram Lahane
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35"/>
+      <br/>Kaggle
+    </td>
+    <td align="center">
+      <a href="https://kaggle.com/shriramlahane" target="_blank">
+        https://kaggle.com/shriramlahane
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35"/>
+      <br/>Instagram
+    </td>
+    <td align="center">
+      <a href="https://instagram.com/pvt.shree_01" target="_blank">
+        https://instagram.com/pvt.shree_01
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35"/>
+      <br/>LeetCode
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/shriram-01" target="_blank">
+        https://leetcode.com/shriram-01
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="70"/>
+      <br/>GeeksforGeeks
+    </td>
+    <td align="center">
+      <a href="https://auth.geeksforgeeks.org/user/shriram01" target="_blank">
+        https://auth.geeksforgeeks.org/user/shriram01
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- FOOTER -->
+<table align="center" cellpadding="12" width="100%">
+  <tr>
+    <td align="center">
+      ⭐ <b>Thanks for visiting!</b> ⭐<br/><br/>
+      <b>Keep Learning | Keep Coding | Keep Building</b> 🚀
+    </td>
+  </tr>
+</table>
